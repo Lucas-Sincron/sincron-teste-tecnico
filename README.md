@@ -2,7 +2,7 @@
 
 ## 📌 Contexto
 Bem-vindo(a)!  
-O objetivo deste teste é entender **como você pensa e trabalha**. Se aprovado(a), haverá uma **reunião presencial de Fit Cultural**.
+O objetivo deste teste é entender **como você pensa e trabalha**. Se aprovado(a), ira para a proxima parte do processo seletivo.
 
 Serão avaliados:  
 - Resultado final  
