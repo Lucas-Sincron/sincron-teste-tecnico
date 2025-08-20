@@ -88,12 +88,12 @@ Ex.: `joao-silva`
 
 ## ✅ Checklist do participante (o que não pode faltar)
 - [ ] Fork e branch com nome correto (`nome-sobrenome`)  
-- [ ] `RESPOSTAS.md` com respostas claras e sinceras  
-- [ ] Código do servidor em `src/` funcionando localmente  
-- [ ] `docs/DOCUMENTACAO.md` explicando decisões e raciocínio  
-- [ ] Instruções de execução passo a passo (como rodar e testar)  
-- [ ] Declaração clara sobre o uso (ou não) de IA e onde ela foi usada  
-- [ ] Código organizado e legível; commits significativos
+- [ ✓ ] `RESPOSTAS.md` com respostas claras e sinceras  
+- [ ✓ ] Código do servidor em `src/` funcionando localmente  
+- [ ✓ ] `docs/DOCUMENTACAO.md` explicando decisões e raciocínio  
+- [ ✓ ] Instruções de execução passo a passo (como rodar e testar)  
+- [ ✓ ] Declaração clara sobre o uso (ou não) de IA e onde ela foi usada  
+- [ ✓ ] Código organizado e legível; commits significativos
 
 ---
 
