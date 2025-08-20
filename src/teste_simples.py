@@ -24,7 +24,7 @@ def instrucoes():
     print("\n" + "="*50)
     print("INSTRUÇÕES DE USO:")
     print("="*50)
-    print("1. Em um terminal, execute: python teste2.py")
+    print("1. Em um terminal, execute: python servidor.py")
     print("2. Em outro terminal, execute: python cliente.py")
     print("3. Digite uma mensagem no cliente")
     print("4. Veja a resposta no servidor")
