@@ -27,15 +27,31 @@ Responda em linguagem clara e direta. A sinceridade é um critério de avaliaç�
 1. **Conhece os princípios SOLID?**  
    - Se sim: liste-os e descreva aplicações práticas ou exemplos onde já os aplicou.
 
+   R: Não conhecia, porém após umas pesquisas, descobri que SOLID são os cinco princípios da POO(Programação Orientada a Objetos) com qual já trabalhei em Python.
+      S - Single Responsibility Principle: Princípio que diz que uma classe deve ter uma única função, um único propósito
+      O - Open Closed Principle: Este explica que podemos generalizar classes, com elas abertas para extensão e fechadas para modificação
+      L - Liskov Substitution Principle: Pelo meu entendimento se fala muito do conceito de herança em POO, ou seja, uma classe-filha deve herdar todos os aspectos da classe-mãe
+      I - Interface Segregation Principle: Devemos criar interfaces específicas ao invés de interfaces genéricas
+      D - Dependency Inversion Principle: Dependa de abstrções e não de informações concretas.
+
+
 2. **Conhece protocolos de comunicação além do HTTP?**  
    - Se sim: cite quais e onde já os utilizou ou poderia utilizar.
+
+   R: Não, só utilizei protocolos HTTP, junto com Python, Javascript e SQL Server em projetos do SENAI.
+      Pórem se necessário para vaga estou disposto aprender cada dia mais outros protocolos para contribuir com a empresa.
 
 3. **Conhece dispositivos IoT?**  
    - Se sim: liste dispositivos/plataformas com que já trabalhou (ex.: ESP32, Raspberry Pi, LoRa nodes, sensores, etc.).
 
+   R: Sim, já mexi em dispositivos IoT interligados com Arduino e utilizando Node Red, já trabalhei com sensores e também com um pouco de APIs.
+
+
 4. **Pretende usar ou usou IA para alguma parte deste teste?**  
    - **Se sim**: informe qual(is) ferramenta(s), em que parte foi usada e por que (seja específico).  
    - **Se não**: explique por que optou por não usar IA.
+
+   R: Neste quase não usei IA, porque quis programar um código mais simples e funcional, desde modo precisei ver mais a documentação e um pequeno vídeo no youtube. O único momento que IA - Gemini - foi necessária foi para entender melhor a organização e a estrtutra das pastas.
 
 ---
 
