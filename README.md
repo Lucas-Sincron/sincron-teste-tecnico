@@ -94,7 +94,11 @@ A avaliação será feita considerando:
 ---
 
 ## 🗣 Observações finais
-- Valoramos **transparência**: se usou IA em qualquer parte, declare com qual ferramenta e o que foi gerado por ela.  
-- Queremos compreender **seu raciocínio** — não apenas o resultado final.  
-- Perguntas (dúvidas sobre o teste) podem ser feitas por e-mail antes do prazo final.  
-- Boa sorte — esperamos ver seu raciocínio e competência! 🚀
+
+- **Valorizamos a transparência — se você utilizou IA em qualquer parte do teste, por favor informe qual ferramenta foi usada e quais trechos foram gerados com o apoio dela.
+- **Queremos entender seu raciocínio, e não apenas o resultado final. Mostre como chegou às decisões e quais alternativas considerou.
+- **Caso surjam dúvidas durante o desenvolvimento, elas podem (e devem!) ser enviadas por e-mail antes do prazo final.
+- **Usar IA nas respostas ou no código não é um problema, desde que isso esteja devidamente declarado.
+- **Se encontrar alguma dificuldade durante o teste, faça o melhor possível e abra uma Pull Request explicando o motivo da dificuldade, assim como os pontos que você considera relevantes sobre o assunto.
+- **Se o seu raciocínio fizer sentido, teremos o maior prazer em entrar em contato e até mesmo ajustar algum trecho do teste, caso necessário.
+- **Boa sorte — estamos ansiosos para ver suas ideias e capacidade técnica em ação! 🚀
